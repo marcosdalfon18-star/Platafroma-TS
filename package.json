@@ -1,0 +1,22 @@
+{
+  "name": "plataforma-ts",
+  "version": "1.0.0",
+  "description": "Plataforma de RRHH Marketing con Firebase",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "vite",
+    "preview": "vite preview",
+    "start": "vite"
+  },
+  "keywords": ["firebase", "typescript", "rrhh", "marketing"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^10.7.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "vite": "^5.0.8"
+  }
+}
